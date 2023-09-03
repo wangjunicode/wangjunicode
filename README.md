@@ -30,3 +30,16 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <br/>
+
+<p align="center">
+<img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+</p>
+
+<div align="center">
+<img height='240' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangjunicode&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<!--
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=wangjunicode&show_icons=true&theme=cobalt" align="center" />
+-->
+</div>  
+
+<br/>  
