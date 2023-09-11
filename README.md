@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <!--START_SECTION:waka-->
+
+```txt
+C#         3 hrs 35 mins   ████████████▒░░░░░░░░░░░░   48.79 %
+JSON       1 hr 57 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Markdown   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+Lua        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+C          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+```
+
 <!--END_SECTION:waka-->
 
 
