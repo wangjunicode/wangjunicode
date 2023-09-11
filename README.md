@@ -16,17 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm <a href="https://www.wangjunicode.com/" target="_blank">Wang Jun</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<!--START_SECTION:waka-->
 
-```txt
-C#         3 hrs 35 mins   ████████████▒░░░░░░░░░░░░   48.79 %
-JSON       1 hr 57 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-Markdown   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Lua        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-C          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <p align="center">
@@ -40,6 +30,10 @@ C          4 mins          ▒░░░░░░░░░░░░░░░░�
   <a href="mailto:wangjunicode@qq.com"><img height="40px" alt="Email" title="Email" src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 <br/>
