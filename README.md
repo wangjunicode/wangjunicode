@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm <a href="https://www.wangjunicode.com/" target="_blank">Wang Jun</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <p align="center">
   <!-- Typing SVG by wangjunicode - https://github.com/wangjunicode/readme-typing-svg -->
