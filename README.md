@@ -31,6 +31,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
