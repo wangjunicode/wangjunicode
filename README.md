@@ -35,10 +35,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-Lua               23 hrs 25 mins  ██████████████████████▒░░   89.75 %
-Protocol Buffer   2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-C#                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Lua               23 hrs 48 mins  ██████████████████████▒░░   89.61 %
+Protocol Buffer   2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+C#                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 C++               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
