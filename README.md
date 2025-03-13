@@ -35,9 +35,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     7 hrs 9 mins    █████████████████████░░░░   84.38 %
-C#      1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Lua   4 hrs 1 min     █████████████████████░░░░   83.75 %
+C#    46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
 ```
 
 <!--END_SECTION:waka-->
