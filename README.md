@@ -35,7 +35,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#   17 mins         █████████████████████████   100.00 %
+C#           4 hrs 13 mins   ████████████████████████▓   98.05 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
