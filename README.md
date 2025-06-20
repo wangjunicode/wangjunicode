@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
-
-
-<p align="center">
-  <!-- Typing SVG by wangjunicode - https://github.com/wangjunicode/readme-typing-svg -->
-  <a href="https://github.com/wangjunicode/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=game developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="mailto:wangjunicode@qq.com"><img height="40px" alt="Email" title="Email" src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg"/></a>
@@ -50,10 +42,4 @@ C++              32 mins         ▒░░░░░░░░░░░░░░�
 <img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 </p>
 
-<div align="center">
-<img height='240' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangjunicode&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<!--
-  <img height='180' src="https://github-readme-stats.vercel.app/api?username=wangjunicode&show_icons=true&theme=cobalt" align="center" />
--->
-</div>  
-<br/>  
+
