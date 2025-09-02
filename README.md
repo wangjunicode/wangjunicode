@@ -27,11 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     14 hrs 31 mins  ███████████████████████▓░   94.11 %
-UnityYaml              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-XML                    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JSON                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Csproj                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C#                     10 hrs 14 mins  ███████████████████████▓░   95.27 %
+UnityYaml              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+XML                    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+MsBuild targets file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Assembly               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
