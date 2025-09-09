@@ -27,11 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#          17 hrs 47 mins  ███████████████████████▒░   92.76 %
-Other       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Python      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-INI         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Markdown    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C#          20 hrs 4 mins   ███████████████████████▒░   93.53 %
+Other       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+INI         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
