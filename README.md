@@ -27,11 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#                33 hrs 1 min    ██████████████████████▒░░   88.68 %
-Python            2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Other             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-C++               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Protocol Buffer   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C#                33 hrs 41 mins  ██████████████████████▒░░   88.76 %
+Python            1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON              40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Batchfile         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+C++               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
