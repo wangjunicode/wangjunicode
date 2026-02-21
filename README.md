@@ -27,10 +27,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#              5 hrs 20 mins   █████████████████████████   99.73 %
-Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Assembly        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Solution File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
