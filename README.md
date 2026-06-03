@@ -27,11 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#           21 hrs          ███████████████████████▒░   92.70 %
-Other        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+C#           22 hrs 48 mins  ███████████████████████▒░   93.97 %
+Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
