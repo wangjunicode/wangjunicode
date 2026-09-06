@@ -27,11 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```txt
-C#              28 hrs 55 mins  █████████████████████▒░░░   85.13 %
-Text            2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Other           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Markdown        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Unity3D Asset   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C#              29 hrs 27 mins  █████████████████████▒░░░   85.21 %
+Text            2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Other           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Markdown        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Unity3D Asset   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
